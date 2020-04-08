@@ -33,6 +33,17 @@ p {
     padding:1%;
 }
 
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid navy;
+  border-radius: 1px;
+  padding: 4px;
+  width: 30em;
+  max-width: 100%;
+  height: auto;
+}
 .courses{
 	list-style-position:inside;
 	text-align:center;
